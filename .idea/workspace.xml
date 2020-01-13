@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="854315d3-c891-40e1-b74d-ca506d324090" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/html.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants.php" beforeDir="false" afterPath="$PROJECT_DIR$/constants.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/includes/connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/includes/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/register.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,11 +207,12 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/20,08,2019" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/20,08,2019" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -232,7 +239,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578811506424</updated>
       <workItem from="1578811509534" duration="18100000" />
-      <workItem from="1578902140980" duration="4807000" />
+      <workItem from="1578902140980" duration="7937000" />
     </task>
     <servers />
   </component>
@@ -248,10 +255,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="719" y="357" width="538" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1578843180337" />
-    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1578819165820">
+    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1578919166521">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1578819165820" />
+    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1578919166521" />
     <state x="440" y="344" width="249" height="149" key="NewPhpFileDialog" timestamp="1578909352322">
       <screen x="67" y="27" width="957" height="741" />
     </state>
