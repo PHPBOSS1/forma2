@@ -2,22 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="854315d3-c891-40e1-b74d-ca506d324090" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/html.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/includes/connection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/includes/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/register.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
@@ -33,7 +31,47 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ablaki@localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ablaki@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ablaki@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ablaki: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ablaki@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ablaki: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ablaki@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ablaki: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ablaki@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ablaki: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FavoritesManager">
@@ -195,8 +233,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -221,7 +261,37 @@
         <serviceView>
           <option name="contentProportion" value="0.27554536" />
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:ablaki@localhost [2]" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:ablaki@localhost [2]" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@456c2229" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:ablaki@localhost [2]" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@7294e2f2" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:ablaki@localhost [2]" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@559e55f9" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:ablaki@localhost [2]" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@15646f9c" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:ablaki@localhost [2]" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@1558e162" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -239,7 +309,14 @@
       <option name="presentableId" value="Default" />
       <updated>1578811506424</updated>
       <workItem from="1578811509534" duration="18100000" />
-      <workItem from="1578902140980" duration="7937000" />
+      <workItem from="1578902140980" duration="8754000" />
+      <workItem from="1578979972964" duration="1053000" />
+      <workItem from="1579066192026" duration="601000" />
+      <workItem from="1579151875582" duration="1693000" />
+      <workItem from="1579239003967" duration="1733000" />
+      <workItem from="1579434513348" duration="602000" />
+      <workItem from="1579503008376" duration="7000" />
+      <workItem from="1579512123075" duration="3000" />
     </task>
     <servers />
   </component>
@@ -251,23 +328,47 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="588" y="214" width="800" height="677" key="#SQL_Dialects/67.27.1853.1053@67.27.1853.1053" timestamp="1578821998048" />
+    <state x="588" y="214" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579152324073">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579152324073" />
     <state x="719" y="357" width="538" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578843180337">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="719" y="357" width="538" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1578843180337" />
-    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1578919166521">
+    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1579151928894">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1578919166521" />
+    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579151928894" />
+    <state width="1287" height="432" key="GridCell.Tab.0.bottom" timestamp="1579524911244">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1287" height="432" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579524911244" />
+    <state width="1287" height="432" key="GridCell.Tab.0.center" timestamp="1579524911243">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1287" height="432" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579524911243" />
+    <state width="1287" height="432" key="GridCell.Tab.0.left" timestamp="1579524911243">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1287" height="432" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579524911243" />
+    <state width="1287" height="432" key="GridCell.Tab.0.right" timestamp="1579524911244">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1287" height="432" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579524911244" />
+    <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1579152079559">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="263" height="500" key="HiddenNamespacesPopup/67.27.1853.1053@67.27.1853.1053" timestamp="1579152079559" />
     <state x="440" y="344" width="249" height="149" key="NewPhpFileDialog" timestamp="1578909352322">
       <screen x="67" y="27" width="957" height="741" />
     </state>
     <state x="789" y="478" width="399" height="149" key="NewPhpFileDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578852475280" />
     <state x="440" y="344" width="249" height="149" key="NewPhpFileDialog/67.27.957.741@67.27.957.741" timestamp="1578909352322" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1578902142103">
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579524882295">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578902142103" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579524882295" />
     <state x="647" y="170" width="683" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578837906847">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
